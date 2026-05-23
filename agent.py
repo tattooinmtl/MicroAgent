@@ -268,6 +268,7 @@ def show_banner():
         print("\n  ╔══════════════════════════════════════╗")
         print("  ║      MicroAgent v0.2                 ║")
         print("  ║  Lightweight AI • Tools • Memory     ║")
+        print("  ║  Made by Erik Boivin • Open Source   ║")
         print("  ╚══════════════════════════════════════╝")
         print("  Server: localhost:8080 │ Context: 6K │ /help\n")
 
