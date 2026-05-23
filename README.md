@@ -34,3 +34,4 @@ Ask the agent things like:
 - "Create a Python script that prints hello world"
 - "Run `dir` in the current folder"
 - "Remember that my project is in C:\myproject"
+- "Notes to remember this is a small assistant made to run on a usb stick for portable uses."
