@@ -1,11 +1,13 @@
 # MicroAgent
 
 Lightweight AI agent for llama.cpp. Designed for low-resource hardware.
-(Build on ---
----------Processor	Intel(R) Core(TM) i7-6560U CPU @ 2.20GHz   2.21 GHz
----------Installed RAM	16.0 GB (15.9 GB usable)
----------Storage	238 GB SSD W800S 256GB SSD
----------Graphics Card	Intel(R) Iris(R) Graphics 540 (128 MB)
+(Build on --
+--Processor	Intel(R) Core(TM) i7-6560U CPU @ 2.20GHz   2.21 GHz
+--Installed RAM	16.0 GB (15.9 GB usable)
+--Storage	238 GB SSD W800S 256GB SSD
+--Graphics Card	Intel(R) Iris(R) Graphics 540 (128 MB) 
+
+Get the model used in this version here : https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF
 
 ## Setup
 
